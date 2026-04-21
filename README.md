@@ -13,4 +13,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->Hi I am Radhesh, high school student and front-end based coding
+-->Hi I am Radhesh, high school student and front-end based coding guy
+      HTML, CSS, JavaScript are my tech stack💻
+      I learn not only coding but also learn this generation important power - AI tools🤖🤖
+      i need some help to get advise from high intelligent and experienced developers 😀
+      i also have other skills like reading books and writing📚📚
+      Fun Fact:
+           * i play video games(my favourite one is Fortnite)
+           *i don't like chips 😅
+           *i ike seeing podcasts of highly successful peoples
+      
